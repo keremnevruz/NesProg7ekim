@@ -20,3 +20,5 @@ class Program
         Console.WriteLine("Program bitti.");
     }
 }
+
+//while dan for a gecis, foru while gibi kullanmak while i for gibi kullanmak haftaya ogren gel.
